@@ -12,6 +12,6 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db
 	github.com/smartystreets/goconvey v1.6.4 // indirect
-	golang.org/x/text v0.3.3
+	golang.org/x/text v0.3.8
 	gopkg.in/ini.v1 v1.55.0
 )
